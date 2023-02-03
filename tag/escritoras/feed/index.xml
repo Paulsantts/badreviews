@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Escritoras &#8211; Bad Reviews</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A place where reading isn&#039;t being critical</description>
+	<lastBuildDate>Wed, 28 Dec 2022 03:52:11 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>A Grande Clarice Lispector</title>
+		<link>./../../../2022/12/28/o-maior-misterio-de-agatha-christie/index.html</link>
+		
+		<dc:creator><![CDATA[Paulo]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 03:12:22 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Clarice Lispector]]></category>
+		<category><![CDATA[Escritora Brasileira]]></category>
+		<category><![CDATA[Escritoras]]></category>
+		<category><![CDATA[Letras]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=187</guid>
+
+					<description><![CDATA[Clarice Lispector, um breve resume de vida e morte de uma das maiores escritoras brasileiras.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Clarice Lispector é um nome de destaque na literatura brasileira, a autora escreveu e publicou seu primeiro livro aos trezes anos, à contrário d&#8217;oque muitos pensam, Clarice, que morou em Maceió (município em Alagoas no Brasil), não nasceu em solo Brasileiro. Clarice Lispector nasceu em uma pequena vila chamada Tchetchelnik na Ucrânia, e veio para o Brasil com apenas 3 meses de nascida, trazida por seus pais em busca de refúgio no ano de 1922.<br><br>Qual a frase mais famosa de Clarice Lispector?<br><br>“Não quero ter a terrível limitação de quem vive apenas do que é passível de fazer sentido. Eu não: quero é uma verdade inventada.” “A loucura é vizinha da&nbsp;<strong>mais</strong>&nbsp;cruel sensatez.” “Mas existe um grande, o maior obstáculo para eu ir adiante: eu mesma.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery has-nested-images columns-2 is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" width="976" height="549" data-id="193"  src="./../../../wp-content/uploads/2022/12/115977245_bbcbrasil_claricelispector1940-2_divulgacaorocco-1.jpg" alt="" class="wp-image-193"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1222" height="686" data-id="191"  src="./../../../wp-content/uploads/2022/12/3427.jpg" alt="" class="wp-image-191"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="931" data-id="194"  src="./../../../wp-content/uploads/2022/12/Clarice-entre-1960-e-1965-Revista-Manchete-arquivo-da-família.jpg" alt="" class="wp-image-194"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="480" height="359" data-id="192"  src="./../../../wp-content/uploads/2022/12/clarice-lispector.webp" alt="" class="wp-image-192"/></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">  </figcaption></figure>
+
+
+
+<p><strong>Clarice Lispector</strong>&nbsp;é uma das principais representantes da literatura intimista brasileira, vertente literária que se preocupava em descrever o psicológico das personagens e retratar o dia a dia comum, analisando as realidades narradas sob uma ótica subjetiva, particular.<br>Clarice Lispector foi a primeira mulher a ingressar na&nbsp;Academia Brasileira de Letras.<br>Ela faleceu precocemente, aos 55 anos, devido a um câncer no ovário.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
